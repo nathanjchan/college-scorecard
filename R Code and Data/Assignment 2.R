@@ -1,5 +1,7 @@
-# STA 141A Assignment 2
+# Assignment 2
 # Nathan Chan
+# github.com/nathanjchan
+# nathanjchan2@gmail.com
 
 scorecard = readRDS("college_scorecard.rds")
 
