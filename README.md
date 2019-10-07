@@ -1,4 +1,4 @@
-# college-scorecard
+# College Scorecard Data Exploration and Analysis
 Explored and analyzed data about US colleges using R and ggplot2.
 
 # Description
