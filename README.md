@@ -1,5 +1,5 @@
 # College Scorecard Data Exploration and Analysis
-Explored and analyzed data about US colleges using R and ggplot2.
+Explored and analyzed data about US colleges using R and ggplot2. Found differences in test scores between public and private schools, the impact of test scores on earnings, and differences in in-state and out-of-state tuition across states. Important for students and parents exploring colleges across America.
 
 # Description
 Assignment 1 and 2 both feature analysis and graphics made in R using ggplot2.
